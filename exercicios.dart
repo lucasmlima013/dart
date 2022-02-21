@@ -1,1 +1,3 @@
-void main(List<String> args) {}
+main() {
+  print('Primeiro teste');
+}
